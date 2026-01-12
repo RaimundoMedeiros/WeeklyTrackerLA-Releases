@@ -1,0 +1,11 @@
+﻿{
+  "version": "1.0.1",
+  "notes": "Versao 1.0.1 - Sistema de atualizacao automatica funcionando corretamente",
+  "pub_date": "2026-01-12T18:43:30Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUHJUQmVCRmh3dFFWRlNJazhVZFlINWM2ZldOQ1o3TVRkOHpzZ2g3MnJETVV1QzZ2NG16SXY1TDFaMEJTT1BwcUk0T1JKQThJRkw5NytSaWprVXgrVEdPdm5wT0thdndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4MjU0MjEwCWZpbGU6V2Vla2x5VHJhY2tlckxBXzEuMC4xX3g2NC1zZXR1cC5leGUKUzF1dzBUYVJTR3lmc1RVNml2K2Iwbmx2bHlFZTY5aFRaYnA1SmhBazFjZm5QaUxGSTF1K3A3ODdPb0N2R3B4QkRGVUVDYkxvUkJLTGFvMVFtbnFnQ2c9PQo=",
+      "url": "https://github.com/RaimundoMedeiros/WeeklyTrackerLA-Releases/releases/download/v1.0.1/WeeklyTrackerLA_1.0.1_x64-setup.exe"
+    }
+  }
+}
