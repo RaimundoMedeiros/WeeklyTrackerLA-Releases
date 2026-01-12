@@ -1,6 +1,6 @@
 ﻿{
   "version": "1.0.1",
-  "notes": "Versao 1.0.1 - Sistema de atualizacao automatica funcionando corretamente",
+  "notes": "Versao 1.0.1 - Sistema de atualizacao automatica",
   "pub_date": "2026-01-12T18:43:30Z",
   "platforms": {
     "windows-x86_64": {
