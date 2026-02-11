@@ -3,7 +3,7 @@
 This repository hosts the Windows installers for WeeklyTrackerLA (no source code). Use this page to download, install, and verify the app.
 
 ## 📥 Download (Windows x64)
-   ![Total Downloads](https://img.shields.io/github/downloads/RaimundoMedeiros/WeeklyTrackerLA-Releases/total)
+![Downloads](https://img.shields.io/github/downloads/RaimundoMedeiros/WeeklyTrackerLA-Releases/total?style=for-the-badge&color=orange)
 - Installer: https://github.com/RaimundoMedeiros/WeeklyTrackerLA-Releases/releases/latest
 - Signature (.sig): available in the same release
 - Integrity (latest SHA256): D50ACE7C67903939BA6184D1DEC3F8562A6384A3B4AEB75A51B7693296047CA2
